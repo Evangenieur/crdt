@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "between": "~0.1",
-    "scuttlebutt": "https://github.com/Evangenieur/scuttlebutt.git",
+    "scuttlebutt": "git://github.com/Evangenieur/scuttlebutt.git#master",
     "it-is": "~1.0.3"
   },
   "devDependencies": {
